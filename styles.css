@@ -1,0 +1,47 @@
+* {
+    background-color: gainsboro;
+
+}
+
+/* header */
+header > .link {
+    color: palevioletred;
+}
+
+
+/* main  */
+h1 {
+    color: palevioletred;
+}
+
+h2.darkBlue {
+    color: darkblue;
+
+}
+
+h2.magenta {
+    color: darkmagenta; 
+}
+
+h1, h2, h3, p, header, footer{
+    text-align: center;
+}
+
+p {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.artwork {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+/* footer */
+footer {
+    font-size: 18px;
+}
